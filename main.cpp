@@ -9,6 +9,7 @@ int multiplyBy7(int n) {
     return x - n;
 }
 
+//Multiply with seven using binary
 int main() {
     int n = 10;
     int result = multiplyBy7(n);
